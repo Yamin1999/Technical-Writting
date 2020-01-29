@@ -1,0 +1,991 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.23)  25 SEP 2019 06:12
+entering extended mode
+**./chicagostyle.tex
+(chicagostyle.tex
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmpcountC=\count82
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@IEEEsubequation=\count87
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count88
+\c@table=\count89
+\@IEEEeqnnumcols=\count90
+\@IEEEeqncolcnt=\count91
+\@IEEEsubeqnnumrollback=\count92
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count93
+\@IEEEquantizeboxA=\box27
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count94
+\@IEEEtranrubishbin=\box28
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago\biblatex-chicago.sty
+"
+Package: biblatex-chicago 2018/01/10 v 3.10 biblatex style
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2019/09/09 v2.5g e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count95
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.sty"
+Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count96
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count97
+\c@listtotal=\count98
+\c@listcount=\count99
+\c@liststart=\count100
+\c@liststop=\count101
+\c@citecount=\count102
+\c@citetotal=\count103
+\c@multicitecount=\count104
+\c@multicitetotal=\count105
+\c@instcount=\count106
+\c@maxnames=\count107
+\c@minnames=\count108
+\c@maxitems=\count109
+\c@minitems=\count110
+\c@citecounter=\count111
+\c@maxcitecounter=\count112
+\c@savedcitecounter=\count113
+\c@uniquelist=\count114
+\c@uniquename=\count115
+\c@refsection=\count116
+\c@refsegment=\count117
+\c@maxextratitle=\count118
+\c@maxextratitleyear=\count119
+\c@maxextraname=\count120
+\c@maxextradate=\count121
+\c@maxextraalpha=\count122
+\c@abbrvpenalty=\count123
+\c@highnamepenalty=\count124
+\c@lownamepenalty=\count125
+\c@maxparens=\count126
+\c@parenlevel=\count127
+\blx@tempcnta=\count128
+\blx@tempcntb=\count129
+\blx@tempcntc=\count130
+\blx@maxsection=\count131
+\blx@maxsegment@0=\count132
+\blx@notetype=\count133
+\blx@parenlevel@text=\count134
+\blx@parenlevel@foot=\count135
+\blx@sectionciteorder@0=\count136
+\blx@entrysetcounter=\count137
+\labelnumberwidth=\skip44
+\labelalphawidth=\skip45
+\biblabelsep=\skip46
+\bibitemsep=\skip47
+\bibnamesep=\skip48
+\bibinitsep=\skip49
+\bibparsep=\skip50
+\bibhang=\skip51
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\blx@langwohyphens=\language82
+\c@mincomprange=\count138
+\c@maxcomprange=\count139
+\c@mincompwidth=\count140
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
+File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'chicago-authordate.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count141
+\c@savedafterword=\count142
+\c@annotator=\count143
+\c@savedannotator=\count144
+\c@author=\count145
+\c@savedauthor=\count146
+\c@bookauthor=\count147
+\c@savedbookauthor=\count148
+\c@commentator=\count149
+\c@savedcommentator=\count150
+\c@editor=\count151
+\c@savededitor=\count152
+\c@editora=\count153
+\c@savededitora=\count154
+\c@editorb=\count155
+\c@savededitorb=\count156
+\c@editorc=\count157
+\c@savededitorc=\count158
+\c@foreword=\count159
+\c@savedforeword=\count160
+\c@holder=\count161
+\c@savedholder=\count162
+\c@introduction=\count163
+\c@savedintroduction=\count164
+\c@namea=\count165
+\c@savednamea=\count166
+\c@nameb=\count167
+\c@savednameb=\count168
+\c@namec=\count169
+\c@savednamec=\count170
+\c@translator=\count171
+\c@savedtranslator=\count172
+\c@shortauthor=\count173
+\c@savedshortauthor=\count174
+\c@shorteditor=\count175
+\c@savedshorteditor=\count176
+\c@labelname=\count177
+\c@savedlabelname=\count178
+\c@institution=\count179
+\c@savedinstitution=\count180
+\c@lista=\count181
+\c@savedlista=\count182
+\c@listb=\count183
+\c@savedlistb=\count184
+\c@listc=\count185
+\c@savedlistc=\count186
+\c@listd=\count187
+\c@savedlistd=\count188
+\c@liste=\count189
+\c@savedliste=\count190
+\c@listf=\count191
+\c@savedlistf=\count192
+\c@location=\count193
+\c@savedlocation=\count194
+\c@organization=\count195
+\c@savedorganization=\count196
+\c@origlocation=\count197
+\c@savedoriglocation=\count198
+\c@origpublisher=\count199
+\c@savedorigpublisher=\count266
+\c@publisher=\count267
+\c@savedpublisher=\count268
+\c@language=\count269
+\c@savedlanguage=\count270
+\c@origlanguage=\count271
+\c@savedoriglanguage=\count272
+\c@pageref=\count273
+\c@savedpageref=\count274
+\shorthandwidth=\skip52
+\shortjournalwidth=\skip53
+\shortserieswidth=\skip54
+\shorttitlewidth=\skip55
+\shortauthorwidth=\skip56
+\shorteditorwidth=\skip57
+\locallabelnumberwidth=\skip58
+\locallabelalphawidth=\skip59
+\localshorthandwidth=\skip60
+\localshortjournalwidth=\skip61
+\localshortserieswidth=\skip62
+\localshorttitlewidth=\skip63
+\localshortauthorwidth=\skip64
+\localshorteditorwidth=\skip65
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-compat.def"
+File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\blx-bibtex.def"
+File: blx-bibtex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.def"
+File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+\c@textcitecount=\count275
+\c@textcitetotal=\count276
+\c@textcitemaxnames=\count277
+\c@biburlbigbreakpenalty=\count278
+\c@biburlbreakpenalty=\count279
+\c@biburlnumpenalty=\count280
+\c@biburlucpenalty=\count281
+\c@biburllcpenalty=\count282
+\biburlbigskip=\muskip11
+\biburlnumskip=\muskip12
+\biburlucskip=\muskip13
+\biburllcskip=\muskip14
+\c@smartand=\count283
+)
+Package biblatex Info: Trying to load bibliography style 'chicago-authordate'..
+.
+Package biblatex Info: ... file 'chicago-authordate.bbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago/bbx\chicago-authordate
+.bbx"
+File: chicago-authordate.bbx 2018/01/11 v 3.10 biblatex bibliography style
+\lositemsep=\skip66
+\c@bbx:relatedcount=\count284
+\c@bbx:relatedtotal=\count285
+)
+Package biblatex Info: Trying to load citation style 'chicago-authordate'...
+Package biblatex Info: ... file 'chicago-authordate.cbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago/cbx\chicago-authordate
+.cbx"
+File: chicago-authordate.cbx 2018/01/11 v 3.10 biblatex citation style
+Package biblatex Info: Trying to load citation style 'chicago-dates-common'...
+Package biblatex Info: ... file 'chicago-dates-common.cbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago/cbx\chicago-dates-comm
+on.cbx"
+File: chicago-dates-common.cbx 2018/01/11 v 3.10 biblatex citation style
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\footfullcite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Patching 'autolang=other' option.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex\biblatex.cfg"
+File: biblatex.cfg 
+))
+
+Package biblatex Warning: 'babel' option is deprecated.
+(biblatex)                Please use 'autolang' instead.
+
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/easy\easytable.sty"
+Document Style `easytable' v1.0 <2001/06/13>.
+("C:\Program Files\MiKTeX 2.9\tex/latex/easy\easy.sty"
+Document Style `easy' v1.1 <2001/05/31>.
+Package: easy 2001/05/31 v1.1
+\@easy@level=\count286
+\@easy@ncol=\count287
+\@easy@nrow=\count288
+\@easy@cnt=\count289
+\@easy@boxviii=\box29
+\@easy@minxviii=\dimen126
+\@easy@minyviii=\dimen127
+\@easy@maxxviii=\dimen128
+\@easy@maxyviii=\dimen129
+\@easy@boxvii=\box30
+\@easy@minxvii=\dimen130
+\@easy@minyvii=\dimen131
+\@easy@maxxvii=\dimen132
+\@easy@maxyvii=\dimen133
+\@easy@boxvi=\box31
+\@easy@minxvi=\dimen134
+\@easy@minyvi=\dimen135
+\@easy@maxxvi=\dimen136
+\@easy@maxyvi=\dimen137
+\@easy@boxv=\box32
+\@easy@minxv=\dimen138
+\@easy@minyv=\dimen139
+\@easy@maxxv=\dimen140
+\@easy@maxyv=\dimen141
+\@easy@boxiv=\box33
+\@easy@minxiv=\dimen142
+\@easy@minyiv=\dimen143
+\@easy@maxxiv=\dimen144
+\@easy@maxyiv=\dimen145
+\@easy@boxiii=\box34
+\@easy@minxiii=\dimen146
+\@easy@minyiii=\dimen147
+\@easy@maxxiii=\dimen148
+\@easy@maxyiii=\dimen149
+\@easy@boxii=\box35
+\@easy@minxii=\dimen150
+\@easy@minyii=\dimen151
+\@easy@maxxii=\dimen152
+\@easy@maxyii=\dimen153
+\@easy@boxi=\box36
+\@easy@minxi=\dimen154
+\@easy@minyi=\dimen155
+\@easy@maxxi=\dimen156
+\@easy@maxyi=\dimen157
+\@easy@hsizexxx=\dimen158
+\@easy@vsizexxx=\dimen159
+\@easy@hsizexxix=\dimen160
+\@easy@vsizexxix=\dimen161
+\@easy@hsizexxviii=\dimen162
+\@easy@vsizexxviii=\dimen163
+\@easy@hsizexxvii=\dimen164
+\@easy@vsizexxvii=\dimen165
+\@easy@hsizexxvi=\dimen166
+\@easy@vsizexxvi=\dimen167
+\@easy@hsizexxv=\dimen168
+\@easy@vsizexxv=\dimen169
+\@easy@hsizexxiv=\dimen170
+\@easy@vsizexxiv=\dimen171
+\@easy@hsizexxiii=\dimen172
+\@easy@vsizexxiii=\dimen173
+\@easy@hsizexxii=\dimen174
+\@easy@vsizexxii=\dimen175
+\@easy@hsizexxi=\dimen176
+\@easy@vsizexxi=\dimen177
+\@easy@hsizexx=\dimen178
+\@easy@vsizexx=\dimen179
+\@easy@hsizexix=\dimen180
+\@easy@vsizexix=\dimen181
+\@easy@hsizexviii=\dimen182
+\@easy@vsizexviii=\dimen183
+\@easy@hsizexvii=\dimen184
+\@easy@vsizexvii=\dimen185
+\@easy@hsizexvi=\dimen186
+\@easy@vsizexvi=\dimen187
+\@easy@hsizexv=\dimen188
+\@easy@vsizexv=\dimen189
+\@easy@hsizexiv=\dimen190
+\@easy@vsizexiv=\dimen191
+\@easy@hsizexiii=\dimen192
+\@easy@vsizexiii=\dimen193
+\@easy@hsizexii=\dimen194
+\@easy@vsizexii=\dimen195
+\@easy@hsizexi=\dimen196
+\@easy@vsizexi=\dimen197
+\@easy@hsizex=\dimen198
+\@easy@vsizex=\dimen199
+\@easy@hsizeix=\dimen256
+\@easy@vsizeix=\dimen257
+\@easy@hsizeviii=\dimen258
+\@easy@vsizeviii=\dimen259
+\@easy@hsizevii=\dimen260
+\@easy@vsizevii=\dimen261
+\@easy@hsizevi=\dimen262
+\@easy@vsizevi=\dimen263
+\@easy@hsizev=\dimen264
+\@easy@vsizev=\dimen265
+\@easy@hsizeiv=\dimen266
+\@easy@vsizeiv=\dimen267
+\@easy@hsizeiii=\dimen268
+\@easy@vsizeiii=\dimen269
+\@easy@hsizeii=\dimen270
+\@easy@vsizeii=\dimen271
+\@easy@hsizei=\dimen272
+\@easy@vsizei=\dimen273
+\@easy@dash@len=\dimen274
+\@easy@dash@sep=\dimen275
+)
+Package: easytable 2001/05/31v1.1
+\@tab@size@rule=\dimen276
+\@tab@size@dash=\dimen277
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen278
+\ar@mcellbox=\box37
+\extrarowheight=\dimen279
+\NC@list=\toks16
+\extratabsurround=\skip67
+\backup@length=\skip68
+\ar@cellbox=\box38
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen280
+\Gin@req@width=\dimen281
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count290
+\float@exts=\toks17
+\float@box=\box39
+\@float@everytoks=\toks18
+\@floatcapt=\box40
+)
+Package biblatex Info: Trying to load language 'english' -> 'cms-american'...
+Package biblatex Info: ... file 'cms-american.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex-chicago/lbx\cms-american.lbx"
+File: cms-american.lbx 2018/01/09 v 3.10 biblatex localization
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\american.lbx"
+File: american.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+))
+\@quotelevel=\count291
+\@quotereset=\count292
+
+(chicagostyle.aux)
+\openout1 = `chicagostyle.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+-- Lines per column: 48 (exact).
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `chicagostyle-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'chicagostyle.bbl' found.
+(chicagostyle.bbl)
+Package biblatex Info: Reference section=0 on input line 20.
+Package biblatex Info: Reference segment=0 on input line 20.
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen282
+\scratchbox=\box41
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen283
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks20
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Underfull \hbox (badness 2680) in paragraph at lines 29--36
+\OT1/ptm/m/n/12 col-lects data on user's be-hav-iors, move-ments,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--36
+
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 29--36
+\OT1/ptm/m/n/12 As on-line ser-vices in-dus-try is grow-ing big-ger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--36
+
+ []
+
+
+Underfull \hbox (badness 4328) in paragraph at lines 29--36
+\OT1/ptm/m/n/12 User data is valu-able to com-pa-nies it tells
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--36
+\OT1/ptm/m/n/12 com-pa-nies about their au-di-ence's in-ter-ests.
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 29--36
+\OT1/ptm/m/n/12 and build-ing an on-line mar-ket-place. In or-der
+ []
+
+<fig2.jpg, id=1, 539.01375pt x 248.127pt>
+File: fig2.jpg Graphic file (type jpg)
+<use fig2.jpg>
+Package pdftex.def Info: fig2.jpg  used on input line 39.
+(pdftex.def)             Requested size: 252.0pt x 116.00635pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 54.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 54.
+
+Overfull \hbox (22.54839pt too wide) in paragraph at lines 54--77
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 82--84
+[]\OT1/ptm/m/n/12 DES was first in-tro-duced by IBM in early
+ []
+
+[1{C:/Users/yamin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <./fig2.jpg>]
+
+Package biblatex-chicago Warning: Empty Ibidem citation on input line 91.
+
+[2]
+<hack.jpg, id=13, 863.225pt x 521.95pt>
+File: hack.jpg Graphic file (type jpg)
+<use hack.jpg>
+Package pdftex.def Info: hack.jpg  used on input line 120.
+(pdftex.def)             Requested size: 252.0pt x 152.36511pt.
+ [3 <./hack.jpg>] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+[]\OT1/ptm/m/n/12 LinkedIn is an Amer-i-can busi-ness and
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 147--148
+\OT1/ptm/m/n/12 employment-oriented ser-vice that op-er-ates via
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 147--148
+\OT1/ptm/m/n/12 asked all the af-fected users to change their
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 147--148
+\OT1/ptm/m/n/12 (adding ran-dom data to the pass-words be-fore
+ []
+
+<Capture.jpg, id=20, 569.12625pt x 523.9575pt>
+File: Capture.jpg Graphic file (type jpg)
+<use Capture.jpg>
+Package pdftex.def Info: Capture.jpg  used on input line 154.
+(pdftex.def)             Requested size: 252.00552pt x 312.98581pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--157
+
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 150--157
+ \OT1/ptm/m/n/12 The pos-si-ble ad-verse ef-fects of cor-po-rate
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 150--157
+\OT1/ptm/m/n/12 data col-lec-tion and uti-liza-tion on in-di-vid-u-als,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--157
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 2237) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 cus-tomer's ac-tiv-i-ties, choices, likes, com-ments,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 sub-ject to fur-ther in-ves-ti-ga-tion, or are fil-tered
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 out in ad-vance. De-ci-sions whether to pro-vide
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 are taken based on those in-for-ma-tion. Fees
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 Data driven de-ci-sions may be taken as fully
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 can be au-to-mat-i-cally rated low. If there is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 data bro-kers and other firms have long been
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 sub-scribers, book and movie club mem-bers,
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 cat-a-log and mail or-der buy-ers, travel agency
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 con-sumers fill-ing out war-ranty cards, prod-uct
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 Social Net-work-ing plat-form Face-book uses at
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 in-ter-nal Face-book doc-u-ment re-vealed how the
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 when young peo-ple need a con-fi-dence boost"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 \stressed", \de-feated", \anx-ious", or like a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 Companies also cal-cu-late scores to pre-dict a
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 to him, what is the health codi-tion, prob-a-ble
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 Smartphones are the biggest con-trib-u-tors to
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 recorded by mo-bile phones pro-vides de-tailed
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 pro-files across plat-forms, cus-tomer databases,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 Political ma-nip-u-la-tion is also done by us-ing
+ []
+
+
+Underfull \hbox (badness 4254) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 in 2016 had \three ma-jor voter sup-pres-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+\OT1/ptm/m/n/12 young women, and African-Americans with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--174
+
+ []
+
+
+Underfull \vbox (badness 3679) has occurred while \output is active []
+
+ [5 <./Capture.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 178.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 178.
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+[][]\OT1/ptm/m/n/12 Berent, Adam. 2013. ``Ad-vanced En-cryp-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+\OT1/ptm/m/n/12 Stan-dard by Ex-am-ple.'' \OT1/ptm/m/it/12 Doc-u-ment
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 179--179
+\OT1/ptm/m/it/12 avail-able at URL http://www. net-workdls.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+\OT1/ptm/m/it/12 com/Articles/AESbyExample. pdf (April 1
+ []
+
+[6]
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[7] (chicagostyle.aux)
+Package logreq Info: Writing requests to 'chicagostyle.run.xml'.
+\openout1 = `chicagostyle.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11146 strings out of 492895
+ 212001 string characters out of 3133479
+ 601148 words of memory out of 3000000
+ 14961 multiletter control sequences out of 15000+200000
+ 39564 words of font info for 75 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,8n,56p,1480b,3911s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
+mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on chicagostyle.pdf (7 pages, 283312 bytes).
+PDF statistics:
+ 46 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

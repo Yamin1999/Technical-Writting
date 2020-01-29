@@ -1,0 +1,481 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{cms/global//global/global}
+  \entry{Breaches18}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{1}
+    \field{sortinithash}{1}
+    \field{howpublished}{\url{http://bit.ly/2ltRFJN/}}
+    \field{note}{hostingtribunal.com, June 2019}
+    \field{title}{15 of the Biggest Data Breaches in The Last 15 Years}
+    \field{year}{2018}
+  \endentry
+
+  \entry{barker2017recommendation}{report}{}
+    \name{author}{2}{}{%
+      {{hash=BE}{%
+         family={Barker},
+         familyi={B\bibinitperiod},
+         given={Elaine},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={Mouha},
+         familyi={M\bibinitperiod},
+         given={Nicky},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BEMN1}
+    \strng{fullhash}{BEMN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Recommendation for the triple data encryption algorithm
+  (TDEA) block cipher}
+    \list{institution}{2}{%
+      {National Institute of Standards}%
+      {Technology}%
+    }
+    \field{type}{techreport}
+    \field{year}{2017}
+  \endentry
+
+  \entry{berent2013advanced}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BA}{%
+         family={Berent},
+         familyi={B\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA1}
+    \strng{fullhash}{BA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Advanced Encryption Standard by Example}
+    \field{journaltitle}{Document available at URL http://www. networkdls.
+  com/Articles/AESbyExample. pdf (April 1 2007) Accessed: June}
+    \field{year}{2013}
+  \endentry
+
+  \entry{calo2017taking}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CR}{%
+         family={Calo},
+         familyi={C\bibinitperiod},
+         given={Ryan},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rosenblat},
+         familyi={R\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {HeinOnline}%
+    }
+    \strng{namehash}{CRRA1}
+    \strng{fullhash}{CRRA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{1623}
+    \field{title}{The taking economy: Uber, information, and power}
+    \field{volume}{117}
+    \field{journaltitle}{Colum. L. Rev.}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Wolfie17}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=CW}{%
+         family={Christl},
+         familyi={C\bibinitperiod},
+         given={Wolfie},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CW1}
+    \strng{fullhash}{CW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+  \field{howpublished}{\url{https://crackedlabs.org/en/corporate-surveillance/}}
+    \field{note}{Cracked Labs, June 2017}
+    \field{title}{Corporate Surveillance in Everyday Life}
+    \field{year}{2017}
+  \endentry
+
+  \entry{daemen1999aes}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DJ}{%
+         family={Daemen},
+         familyi={D\bibinitperiod},
+         given={Joan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RV}{%
+         family={Rijmen},
+         familyi={R\bibinitperiod},
+         given={Vincent},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DJRV1}
+    \strng{fullhash}{DJRV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1999}
+    \field{labeldatesource}{year}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{AES proposal: Rijndael}
+    \field{year}{1999}
+  \endentry
+
+  \entry{joe18}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GJ}{%
+         family={Galvin},
+         familyi={G\bibinitperiod},
+         given={Joe},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJ1}
+    \strng{fullhash}{GJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{year}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{howpublished}{\url{http://bit.ly/2mMvyyl/}}
+    \field{note}{Inc.,May 7, 2018}
+    \field{title}{60 Percent of Small Businesses Fold Within 6 Months of a
+  Cyber Attack. Here's How to Protect Yourself}
+    \field{year}{2018}
+  \endentry
+
+  \entry{halpern2017he}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HS}{%
+         family={Halpern},
+         familyi={H\bibinitperiod},
+         given={Sue},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HS1}
+    \strng{fullhash}{HS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{pages}{2017}
+    \field{title}{How he used Facebook to win}
+    \field{volume}{8}
+    \field{journaltitle}{The New York Review of Books}
+    \field{year}{2017}
+  \endentry
+
+  \entry{laser2016comparative}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LJS}{%
+         family={Laser},
+         familyi={L\bibinitperiod},
+         given={Jitendra\bibnamedelima Singh},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=JV}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={Viny},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJSJV1}
+    \strng{fullhash}{LJSJV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{03}
+    \field{title}{A Comparative Survey Of Various Cryptographic Techniques}
+    \field{volume}{3}
+    \field{journaltitle}{International Research Journal Of Engineering And
+  Technology (Irjet)}
+    \field{year}{2016}
+  \endentry
+
+  \entry{malhotra2013study}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MM}{%
+         family={Malhotra},
+         familyi={M\bibinitperiod},
+         given={Mini},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Aman},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MMSA1}
+    \strng{fullhash}{MMSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{3}
+    \field{pages}{77\bibrangedash 88}
+    \field{title}{Study of various cryptographic algorithms}
+    \field{volume}{1}
+    \field{journaltitle}{International Journal of Scientific Engineering and
+  Research}
+    \field{year}{2013}
+  \endentry
+
+  \entry{merkle1981security}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MRC}{%
+         family={Merkle},
+         familyi={M\bibinitperiod},
+         given={Ralph\bibnamedelima C},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=HME}{%
+         family={Hellman},
+         familyi={H\bibinitperiod},
+         given={Martin\bibnamedelima E},
+         giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{MRCHME1}
+    \strng{fullhash}{MRCHME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1981}
+    \field{labeldatesource}{year}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{7}
+    \field{pages}{465\bibrangedash 467}
+    \field{title}{On the security of multiple encryption}
+    \field{volume}{24}
+    \field{journaltitle}{Communications of the ACM}
+    \field{year}{1981}
+  \endentry
+
+  \entry{neha16}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NSBBSY}{%
+         family={Neha\bibnamedelima Sharma},
+         familyi={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+         suffix={Surendra\bibnamedelima Yadav},
+         suffixi={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+         given={Brahmdutt\bibnamedelima Bohra},
+         giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NSSYBB1}
+    \strng{fullhash}{NSSYBB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{year}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{9}
+    \field{title}{A Review on data encryption techniques used for social media
+  on internet}
+    \field{volume}{4}
+    \field{journaltitle}{International Journal of Advanced Computational
+  Engineering and Networking}
+    \field{year}{2016}
+  \endentry
+
+  \entry{CLINT}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=PC}{%
+         family={Pumphrey},
+         familyi={P\bibinitperiod},
+         given={Clint},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PC1}
+    \strng{fullhash}{PC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+  \field{howpublished}{\url{https://computer.howstuffworks.com/advertiser-custom-ads1.htm/}}
+    \field{note}{HowStuffWorks, June 7, 2019}
+    \field{title}{How do advertisers show me custom ads?}
+  \endentry
+
+  \entry{tiku2017get}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TN}{%
+         family={Tiku},
+         familyi={T\bibinitperiod},
+         given={Nitasha},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TN1}
+    \strng{fullhash}{TN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Get ready for the next big privacy backlash against Facebook}
+    \field{volume}{21}
+    \field{journaltitle}{Wired, May}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Ramya17}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TDp}{%
+         family={T.Ramya},
+         familyi={T\bibinitperiod},
+         given={Dr.V.V.Rama\bibnamedelima prasad},
+         giveni={D\bibinitperiod\bibinitdelim p\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TDp1}
+    \strng{fullhash}{TDp1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{year}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{5}
+    \field{title}{Cryptography Algorithms and Attacks}
+    \field{volume}{4}
+    \field{journaltitle}{International Journal of Scientific Engineering and
+  Research}
+    \field{year}{2017}
+  \endentry
+
+  \entry{valentino2012websites}{article}{}
+    \name{author}{3}{}{%
+      {{hash=VDJ}{%
+         family={Valentino-Devries},
+         familyi={V\bibinithyphendelim D\bibinitperiod},
+         given={Jennifer},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SVJ}{%
+         family={Singer-Vine},
+         familyi={S\bibinithyphendelim V\bibinitperiod},
+         given={Jeremy},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Soltani},
+         familyi={S\bibinitperiod},
+         given={Ashkan},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VDJSVJSA1}
+    \strng{fullhash}{VDJSVJSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{year}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{pages}{60\bibrangedash 68}
+    \field{title}{Websites vary prices, deals based on users’ information}
+    \field{volume}{10}
+    \field{journaltitle}{Wall Street Journal}
+    \field{year}{2012}
+  \endentry
+
+  \entry{van1990known}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=VOPC}{%
+         family={Van\bibnamedelima Oorschot},
+         familyi={V\bibinitperiod\bibinitdelim O\bibinitperiod},
+         given={Paul\bibnamedelima C},
+         giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=WMJ}{%
+         family={Wiener},
+         familyi={W\bibinitperiod},
+         given={Michael\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{VOPCWMJ1}
+    \strng{fullhash}{VOPCWMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1990}
+    \field{labeldatesource}{year}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{booktitle}{Workshop on the Theory and Application of of
+  Cryptographic Techniques}
+    \field{pages}{318\bibrangedash 325}
+    \field{title}{A known-plaintext attack on two-key triple encryption}
+    \field{year}{1990}
+  \endentry
+\enddatalist
+\endinput
